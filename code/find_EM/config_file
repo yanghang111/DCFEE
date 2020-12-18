@@ -1,0 +1,15 @@
+{
+    "lr": 0.001,
+    "emb_file": "100.utf8",
+    "lower": false,
+    "num_char": 18711,
+    "batch_size": 50,
+    "clip": 5.0,
+    "num_steps": 50,
+    "zeros": false,
+    "dropout_keep": 0.5,
+    "pre_emb": true,
+    "char_dim": 100,
+    "optimizer": "adam",
+    "lstm_dim": 100
+}

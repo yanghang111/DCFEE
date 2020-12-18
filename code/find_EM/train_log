@@ -1,0 +1,64 @@
+2019-05-07 11:05:28,509 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 11:06:55,509 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 12:45:45,581 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 12:45:45,735 - train_log - INFO - start testing
+2019-05-07 12:47:30,099 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 12:47:30,245 - train_log - INFO - start testing
+2019-05-07 12:59:29,709 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 12:59:29,848 - train_log - INFO - start testing
+2019-05-07 13:00:08,531 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 13:00:08,670 - train_log - INFO - start testing
+2019-05-07 13:00:32,922 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 13:00:33,059 - train_log - INFO - start testing
+2019-05-07 13:03:46,132 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 13:03:46,268 - train_log - INFO - start testing
+2019-05-07 13:04:21,256 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 13:04:21,401 - train_log - INFO - start testing
+2019-05-07 14:15:19,276 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:15:19,416 - train_log - INFO - start testing
+2019-05-07 14:15:50,403 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:15:50,554 - train_log - INFO - start testing
+2019-05-07 14:23:48,553 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:23:48,692 - train_log - INFO - start testing
+2019-05-07 14:24:26,219 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:24:26,358 - train_log - INFO - start testing
+2019-05-07 14:29:28,440 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:29:28,591 - train_log - INFO - start testing
+2019-05-07 14:37:08,921 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:37:09,059 - train_log - INFO - start testing
+2019-05-07 14:40:21,299 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-07 14:40:21,437 - train_log - INFO - start testing
+2019-05-08 15:18:01,333 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:18:01,492 - train_log - INFO - start testing
+2019-05-08 15:19:03,875 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:19:03,972 - train_log - INFO - start testing
+2019-05-08 15:22:33,370 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:22:33,471 - train_log - INFO - start testing
+2019-05-08 15:24:34,404 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:24:34,500 - train_log - INFO - start testing
+2019-05-08 15:26:10,931 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:26:11,030 - train_log - INFO - start testing
+2019-05-08 15:27:18,595 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:27:18,697 - train_log - INFO - start testing
+2019-05-08 15:27:48,693 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:27:48,789 - train_log - INFO - start testing
+2019-05-08 15:28:10,950 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:28:11,047 - train_log - INFO - start testing
+2019-05-08 15:33:54,636 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:33:54,732 - train_log - INFO - start testing
+2019-05-08 15:35:16,548 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:35:16,644 - train_log - INFO - start testing
+2019-05-08 15:40:28,068 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:40:28,167 - train_log - INFO - start testing
+2019-05-08 15:41:18,002 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:41:18,100 - train_log - INFO - start testing
+2019-05-08 15:42:04,058 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-08 15:42:04,151 - train_log - INFO - start testing
+2019-05-09 21:06:04,802 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-09 21:06:04,958 - train_log - INFO - start testing
+2019-05-09 21:07:36,382 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-09 21:07:36,497 - train_log - INFO - start testing
+2019-05-11 15:16:15,691 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-11 15:16:15,985 - train_log - INFO - start testing
+2019-05-17 21:57:06,839 - train_log - INFO - Reading model parameters from ckpt\ner.skpt
+2019-05-17 21:57:06,937 - train_log - INFO - start testing
